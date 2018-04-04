@@ -1,6 +1,3 @@
-## 作者
-- 周春松 chunsong_zhou@fpi-inc.com
-
 ## 说明
 - 初步接触`kubernets`，记录学习过程
 - 本教程目的利用`kubeadm`在`ubuntu server 16.04 64`位系统离线安装`kubernets v1.10.0`
